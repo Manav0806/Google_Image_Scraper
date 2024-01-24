@@ -9,6 +9,6 @@ The Image Scraper is a Python script that allows you to download images from a s
 
 ## Usage
 
-1. Run the script by executing `python image_scraper.py`.
+1. Run the script by executing `scrap.py`.
 2. Enter the target URL when prompted.
 3. Provide a name for the images and the path where you want to save them.
